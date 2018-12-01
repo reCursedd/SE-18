@@ -1,0 +1,5 @@
+$ docker pull pytorch/pytorch
+$ docker pull tensorflow/tensorflow:latest-py3
+$ sudo docker run pytorch/pytorch
+$ nvidia-docker run -d -p 6006:6006 -p 8888:8888 -v /datafolder/tensorflow_nb/:/notebooks/sharedfolder -e PASSWORD=MY_CUSTOM_PASSWORD --name tensorflow tensorflow/tensorflow:latest-py3
+$ docker ps -a
