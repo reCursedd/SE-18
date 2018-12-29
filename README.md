@@ -1,6 +1,6 @@
 # SE-18
 Code and tool outputs for CSC510-18 final project 
-
+The detailed report of our findings can be found [here](https://github.com/reCursedd/SE-18/blob/master/c_izefak.pdf)
 # Pytorch VS TensorFlow
 Our work was divided into 4 main parts: 
 ## Performance: 
@@ -24,7 +24,7 @@ We checked cross platform deployment using docker on Ubuntu and MacOS. We also c
 and we the code and results are spread accross a few files:
 1. [Pytorch Deployment on iOS](https://github.com/reCursedd/SE-18/tree/master/pytorch%20deployment)
 2. [TensorFlow Deployment on iOS](https://github.com/reCursedd/SE-18/tree/master/tensorflow%20deployment)
-3. [Guide for command line inputs] (https://github.com/reCursedd/SE-18/blob/master/dockercode.txt)
+3. [Guide for command line inputs](https://github.com/reCursedd/SE-18/blob/master/dockercode.txt)
 
 ## Community 
  We analyzed the Github communnities of each project. We look at various interesting measures
