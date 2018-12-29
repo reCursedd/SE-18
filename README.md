@@ -35,6 +35,6 @@ of re-factoring that occurs in the respective code bases since the start of proj
 analyze the rate of growth of code as well using an interesting visualization. It shows us the efforts made by the communities
 to keep the code bug-free and add new features.
 
-The installations can be done using the (requirements.txt)[https://github.com/reCursedd/SE-18/blob/master/gitStats/foss-heartbeat/requirements.txt] file
+The installations can be done using the [requirements.txt](https://github.com/reCursedd/SE-18/blob/master/gitStats/foss-heartbeat/requirements.txt) file
 Python library for growth of code can be found at [git-of-theseus](https://github.com/erikbern/git-of-theseus). 
 The home grown code and some interesting results can be found at [gitStat](https://github.com/reCursedd/SE-18/tree/master/gitStats) directory. 
