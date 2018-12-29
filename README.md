@@ -1,5 +1,6 @@
 # SE-18
-Code and tool outputs for CSC510-18 final project 
+Code and tool outputs for CSC510-18 final project
+
 The detailed report of our findings can be found [here](https://github.com/reCursedd/SE-18/blob/master/c_izefak.pdf)
 # Pytorch VS TensorFlow
 Our work was divided into 4 main parts: 
